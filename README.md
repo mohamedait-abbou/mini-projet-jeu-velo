@@ -14,17 +14,17 @@ Le joueur contrôle un vélo et doit éviter des obstacles pour survivre le plus
 - MinGW, Visual Studio Code
 
 ## ▶️ Compilation & Exécution
+
 ```bash
 g++ main.cpp -Iinclude -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf -o game.exe
 ./game.exe
+
 📂 Structure
-Code
 assets/   → Images et sons
 headers/  → Fichiers .h
 src/      → Fichiers .cpp
 include/  → Bibliothèques SDL
 lib/      → Librairies
 main.cpp
-## 🎮 Game Screenshot
-
-![Bike](assets/bike_image.jpg)
+🎮 Game Screenshot
+<p align="center"> <img src="assets/bike_image.jpg" width="600"> </p> ```
