@@ -27,8 +27,10 @@ include/  → Bibliothèques SDL
 lib/      → Librairies
 main.cpp
 ## 🎮 Game Screenshot
-<p align="center">
-  <img src="https://github.com/mohamedait-abbou/mini-projet-jeu-velo/blob/6110c45ceda5584e7cca564b9490d7b78ef206e2/assets/bike_image.jpg" width="600">
-</p>
+https://github.com/mohamedait-abbou/mini-projet-jeu-velo/blob/main/bike_image.jpg?raw=true
+![Alt text](https://github.com/mohamedait-abbou/mini-projet-jeu-velo/blob/main/bike_image.jpg?raw=true
+)
+
+
 
 
