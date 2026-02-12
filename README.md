@@ -15,7 +15,7 @@ Le joueur contrôle un vélo et doit éviter des obstacles pour survivre le plus
 
 ## ▶️ Compilation & Exécution
 
-```bash
+
 g++ main.cpp -Iinclude -Llib -lmingw32 -lSDL2main -lSDL2 -lSDL2_image -lSDL2_mixer -lSDL2_ttf -o game.exe
 ./game.exe
 
@@ -30,6 +30,7 @@ main.cpp
 https://github.com/mohamedait-abbou/mini-projet-jeu-velo/blob/main/bike_image.jpg?raw=true
 ![Alt text](https://github.com/mohamedait-abbou/mini-projet-jeu-velo/blob/main/bike_image.jpg?raw=true
 )
+
 
 
 
