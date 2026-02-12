@@ -25,4 +25,6 @@ src/      → Fichiers .cpp
 include/  → Bibliothèques SDL
 lib/      → Librairies
 main.cpp
-📸 Screenshots
+## 🎮 Game Screenshot
+
+![Game Screenshot](assets\bike_image.jpg)
