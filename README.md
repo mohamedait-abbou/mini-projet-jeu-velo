@@ -26,5 +26,8 @@ src/      → Fichiers .cpp
 include/  → Bibliothèques SDL
 lib/      → Librairies
 main.cpp
-🎮 Game Screenshot
-<p align="center"> <img src="assets/bike_image.jpg" width="600"> </p> ```
+## 🎮 Game Screenshot
+<p align="center">
+  <img src="assets/bike_image.jpg" width="600">
+</p>
+
