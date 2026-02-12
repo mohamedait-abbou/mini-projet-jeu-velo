@@ -27,4 +27,4 @@ lib/      → Librairies
 main.cpp
 ## 🎮 Game Screenshot
 
-![Game Screenshot](assets\bike_image.jpg)
+![Bike](assets/bike_image.jpg)
